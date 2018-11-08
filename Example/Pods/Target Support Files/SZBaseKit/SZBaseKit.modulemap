@@ -1,0 +1,6 @@
+framework module SZBaseKit {
+  umbrella header "SZBaseKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

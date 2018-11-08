@@ -1,0 +1,22 @@
+{
+  "name": "SZBaseKit",
+  "version": "0.1.1",
+  "summary": "A short description of SZBaseKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/suzee/SZBaseKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "suzee": "2469209357@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/suzee/SZBaseKit.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SZBaseKit/Classes/**/*"
+}
