@@ -1,8 +1,8 @@
 {
   "name": "SZBaseKit",
   "version": "0.1.1",
-  "summary": "A short description of SZBaseKit.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "公共扩展",
+  "description": "UI公共使用扩展",
   "homepage": "https://github.com/suzee/SZBaseKit",
   "license": {
     "type": "MIT",
