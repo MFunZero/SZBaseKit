@@ -7,6 +7,7 @@
 //
 
 @import UIKit;
+@import SZBaseKit;
 
 @interface SZAppDelegate : UIResponder <UIApplicationDelegate>
 

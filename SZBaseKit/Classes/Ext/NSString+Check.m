@@ -186,10 +186,6 @@
     return YES;
 }
 
-- (BOOL)vinCheck {
-    return (self.length == 17);
-}
-
 - (BOOL)wordAndNumerCheck {
     NSArray *result = [self resultWithPattern:@"^[A-Za-z0-9]+$"];
     return result && result.count > 0;

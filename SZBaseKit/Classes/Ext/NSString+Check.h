@@ -33,7 +33,6 @@
 - (BOOL)isPhoneNum;
 /**是否是银行卡号*/
 - (BOOL)isBankCardNo;
-- (BOOL)vinCheck;
 + (BOOL)isBlank:(NSString *)str;
 + (BOOL)isNotBlank:(NSString *)str;
 
